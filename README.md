@@ -29,7 +29,7 @@
 <br/>  
 
 ## My Skill Set  
-<table align="center">
+<table>
   <tr>
     <td valign="top" width="100%">
 
