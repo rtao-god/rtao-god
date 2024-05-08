@@ -4,7 +4,20 @@
   
 ### About me  
 
- <p style="text-indent: 20px;"> I am a frontend engineer from the [Russian](https://en.wikipedia.org/wiki/Russia) city of [Moscow](https://en.wikipedia.org/wiki/Moscow), but now I live in [Batumi](https://en.wikipedia.org/wiki/Batumi), [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)). </p>
+ <p style="text-indent: 20px;">
+   I am a frontend engineer from the  
+     
+   <a href="https://en.wikipedia.org/wiki/Russia" target="_blank">
+     Russian
+   </a> city of <a href="https://en.wikipedia.org/wiki/Moscow" target="_blank">
+     Moscow
+   </a>, but now I live in <a href="https://en.wikipedia.org/wiki/Batumi" target="_blank">
+     Batumi
+   </a>, 
+    <a href="https://en.wikipedia.org/wiki/Georgia_(country)" target="_blank">
+     Georgia
+   </a>.
+ </p>
 
 Looking for remote job, if you have some, feel free to call me in the middle of the night or write in DMs.
 
