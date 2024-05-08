@@ -31,11 +31,10 @@
 ## My Skill Set  
 <table align="center">
   <tr>
-    <td valign="top" width="100%" style="border: 10px solid transparent">
+    <td valign="top" width="100%">
 
-### Frontend  
   <a href="https://reactjs.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+    <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
   </a>
   
   <a href="https://www.typescriptlang.org/" target="_blank">
