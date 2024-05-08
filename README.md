@@ -4,26 +4,24 @@
 
 <div>
   <img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width=200 />
-  <img align="left" width="100" src="./images/mahiro/switch.png">
-   <p style="text-indent: 20px;">
-     I am a frontend engineer from the  
-     
-   <a href="https://en.wikipedia.org/wiki/Russia" target="_blank">
-     Russian
-   </a> city of <a href="https://en.wikipedia.org/wiki/Moscow" target="_blank">
-     Moscow
-   </a>, but now I live in <a href="https://en.wikipedia.org/wiki/Batumi" target="_blank">
-     Batumi
-   </a>, 
-    <a href="https://en.wikipedia.org/wiki/Georgia_(country)" target="_blank">
-     Georgia
-   </a>.
-   
-  Looking for remote job, if you have some, feel free to call me in the middle of the night or write in DMs.
-
-Nice to meet you.
-
- </p>
+  <div>
+    <img align="left" width="100" src="./images/mahiro/switch.png" />
+     <p style="text-indent: 20px;">
+      I am a frontend engineer from the
+     <a href="https://en.wikipedia.org/wiki/Russia" target="_blank">
+       Russian
+     </a> city of <a href="https://en.wikipedia.org/wiki/Moscow" target="_blank">
+       Moscow
+     </a>, but now I live in <a href="https://en.wikipedia.org/wiki/Batumi" target="_blank">
+       Batumi
+     </a>,
+      <a href="https://en.wikipedia.org/wiki/Georgia_(country)" target="_blank">
+       Georgia
+     </a>.
+     </p>
+    <p>Looking for remote job, if you have some, feel free to call me in the middle of the night or write in DMs.</p>
+    <p>Nice to meet you.</p>
+  </div>
 </div>
 
 <br/>
@@ -32,14 +30,15 @@ Nice to meet you.
 
   <img align="center" width="100" src="./images/mahiro/cry.png" />
 
-  <p align="center">
-    I have 3 years of commercial experience in the IT field in the position of Frontend Developer (React).
-    I have described all my experience in companies in my 
-    <a href="https://hh.ru/resume/a98761d9ff0c8cdb3e0039ed1f6c71436a3966" target="_blank">
+  <div align="center">
+    <p> I have 3 years of commercial experience in the IT field in the position of Frontend Developer (React). </p>
+    <p>I have described all my experience in companies in my
+      <a href="https://hh.ru/resume/a98761d9ff0c8cdb3e0039ed1f6c71436a3966" target="_blank">
       resume.
-    </a>
-    Good luck!
-  </p>
+      </a>
+    </p>
+    <p>Good luck!</p>
+  </div>
 
 <br/>
 
