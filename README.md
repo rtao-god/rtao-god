@@ -86,7 +86,11 @@
  <div align="center">
    <a href="https://t.me/RtaoGod" target="_blank">
      <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
-  </a>
+   </a>
+
+  <a href="https://hh.ru/resume/a98761d9ff0c8cdb3e0039ed1f6c71436a3966" target="_blank">  
+    <img src="https://img.shields.io/badge/My CV-red?style=for-the-badge&logo=Readthedocs&logoColor=white" alt="my-cv Badge"/>  
+  </a>  
 
   <a href="mailto:rtobor519@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
