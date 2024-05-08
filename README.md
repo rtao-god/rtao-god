@@ -1,10 +1,11 @@
 ### <div align="center"> ꧁ Hey 👋, I'm Dmitry! ꧂ </div>
 
-### About me
+### ☕ **About me**
 
 <div align="center">
   <img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width=200 />
-   <p style="text-indent: 20px;" >
+  <img align="left" width="100" src="./images/mahiro/switch.png">
+   <p style="text-indent: 20px;">
      I am a frontend engineer from the  
      
    <a href="https://en.wikipedia.org/wiki/Russia" target="_blank">
@@ -27,7 +28,14 @@ Nice to meet you.
 
 <br/>
 
-## My Skill Set
+## **💻 Experience**
+
+  <img align="right" width="100" src="./images/mahiro/cry.png" />
+  <p align="center"> I have 3 years of commercial experience in the IT field in the position of Frontend Developer (React) </p>
+  
+<br/>
+
+## **🐱‍👤 My Skill Set**
 
 <table>
   <tr>
@@ -82,7 +90,7 @@ Nice to meet you.
 
 <br/>
 
-## Connect with me
+## **📫 Connect with me**
 
  <div align="center">
    <a href="https://t.me/RtaoGod" target="_blank">
@@ -108,7 +116,7 @@ Nice to meet you.
 
 <br/>
 
-## Github Stats
+## **📊 Github Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtao-god&hide_border=true&layout=compact" align="center" />
