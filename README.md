@@ -4,7 +4,9 @@
   
 ### About me  
 
- <p style="text-indent: 20px;">
+<div align="center">
+<img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width=200 />
+ <p style="text-indent: 20px;" >
    I am a frontend engineer from the  
      
    <a href="https://en.wikipedia.org/wiki/Russia" target="_blank">
@@ -19,19 +21,19 @@
    </a>.
  </p>
 
-Looking for remote job, if you have some, feel free to call me in the middle of the night or write in DMs.
+  Looking for remote job, if you have some, feel free to call me in the middle of the night or write in DMs.
 
-Nice to meet you.
+  Nice to meet you.
+</div>
 
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
-
-
+<table align="center">
+  <tr>
+    <td valign="top" width="100%" style="border: 10px solid transparent">
 
 ### Frontend  
-<div align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
   </a>
@@ -75,9 +77,6 @@ Nice to meet you.
   <a href="https://www.figma.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
   </a>
-</div>
-
-
 </td></tr></table>  
 
 <br/>  
