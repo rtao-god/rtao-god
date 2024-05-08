@@ -3,8 +3,6 @@
 ### ☕ **About me**
 
 <div>
-  <img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width=200 />
-  <div>
     <img align="left" width="100" src="./images/mahiro/switch.png" />
      <p style="text-indent: 20px;">
       I am a frontend engineer from the
@@ -21,18 +19,17 @@
      </p>
     <p>Looking for remote job, if you have some, feel free to call me in the middle of the night or write in DMs.</p>
     <p>Nice to meet you.</p>
-  </div>
 </div>
 
 <br/>
 
 ## **💻 Experience**
 
-  <img align="center" width="100" src="./images/mahiro/cry.png" />
+  <img align="right" width="100" src="./images/mahiro/cry.png" />
   <p> I have 3 years of commercial experience in the IT field in the position of Frontend Developer (React). </p>
   <p>I have described all my experience in companies in my
     <a href="https://hh.ru/resume/a98761d9ff0c8cdb3e0039ed1f6c71436a3966" target="_blank">
-      resume.
+      Resume.
     </a>
   </p>
   <p>Good luck!</p>
