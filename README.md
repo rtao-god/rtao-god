@@ -1,6 +1,6 @@
 ### <div align="center"> ꧁ Hey 👋, I'm Dmitry! ꧂ </div>
 
-### ꧁ About me ꧂
+### About me
 
 <div align="center">
   <img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width=200 />
@@ -27,7 +27,7 @@ Nice to meet you.
 
 <br/>
 
-## ꧁ My Skill Set ꧂
+## My Skill Set
 
 <table>
   <tr>
@@ -82,7 +82,7 @@ Nice to meet you.
 
 <br/>
 
-## ꧁ Connect with me ꧂
+## Connect with me
 
  <div align="center">
    <a href="https://t.me/RtaoGod" target="_blank">
@@ -104,12 +104,11 @@ Nice to meet you.
    <a href="https://github.com/rtao-god" target="_blank">
       <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
    </a> 
-</div> 
-
+</div>
 
 <br/>
 
-## ꧁ Github Stats ꧂
+## Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtao-god&hide_border=true&layout=compact" align="center" />
