@@ -1,6 +1,6 @@
-### <div align="center">Hey 👋,  I'm Dmitry! </div>  
-  
-### About me  
+### <div align="center"> ꧁ Hey 👋, I'm Dmitry! ꧂ </div>
+
+### ꧁ About me ꧂
 
 <div align="center">
   <img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width=200 />
@@ -19,14 +19,16 @@
    </a>.
  </p>
 
-  Looking for remote job, if you have some, feel free to call me in the middle of the night or write in DMs.
+Looking for remote job, if you have some, feel free to call me in the middle of the night or write in DMs.
 
-  Nice to meet you.
+Nice to meet you.
+
 </div>
 
-<br/>  
+<br/>
 
-## My Skill Set  
+## ꧁ My Skill Set ꧂
+
 <table>
   <tr>
     <td valign="top" width="100%">
@@ -76,19 +78,20 @@
   </a>
   </td>
  </tr>
-</table>  
+</table>
 
-<br/>  
+<br/>
 
-## Connect with me  
+## ꧁ Connect with me ꧂
+
  <div align="center">
    <a href="https://t.me/RtaoGod" target="_blank">
-     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
+     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px; border-radius: 20%;" />
    </a>
 
   <a href="https://hh.ru/resume/a98761d9ff0c8cdb3e0039ed1f6c71436a3966" target="_blank">  
     <img src="https://img.shields.io/badge/My CV-red?style=for-the-badge&logo=Readthedocs&logoColor=white" alt="my-cv Badge"/>  
-  </a>  
+  </a>
 
   <a href="mailto:rtobor519@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
@@ -102,13 +105,21 @@
       <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
    </a> 
 </div> 
-  
-
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtao-god&hide_border=true&layout=compact" align="center" /></div>  
+<br/>
 
-<br/>  
+## ꧁ Github Stats ꧂
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtao-god&hide_border=true&layout=compact" align="center" />
+</div>
+
+<br/>
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rtao-god/rtao-god/snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rtao-god/rtao-god/snake/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/rtao-god/Tokrtao-god/snake/github-contribution-grid-snake.svg">
+</picture>
