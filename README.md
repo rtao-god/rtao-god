@@ -2,7 +2,7 @@
 
 ### ☕ **About me**
 
-<div align="center">
+<div>
   <img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width=200 />
   <img align="left" width="100" src="./images/mahiro/switch.png">
    <p style="text-indent: 20px;">
@@ -30,9 +30,9 @@ Nice to meet you.
 
 ## **💻 Experience**
 
-  <img align="right" width="100" src="./images/mahiro/cry.png" />
+  <img align="center" width="100" src="./images/mahiro/cry.png" />
   <p align="center"> I have 3 years of commercial experience in the IT field in the position of Frontend Developer (React) </p>
-  
+
 <br/>
 
 ## **🐱‍👤 My Skill Set**
