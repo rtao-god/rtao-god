@@ -4,7 +4,7 @@
   
 ### About me  
 
-  I am a frontend engineer from the Russian city of from [Moscow](https://en.wikipedia.org/wiki/Moscow), but now I live in Georgia in the city of Batumi [Batumi](https://en.wikipedia.org/wiki/Batumi).
+ <p style="text-indent: 20px;"> I am a frontend engineer from the Russian city of from [Moscow](https://en.wikipedia.org/wiki/Moscow), but now I live in Georgia in the city of [Batumi](https://en.wikipedia.org/wiki/Batumi). </p>
 
 Looking for remote job, if you have some, feel free to call me in the middle of the night or write in DMs.
 
@@ -34,6 +34,10 @@ Nice to meet you.
   <a href="https://www.javascript.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
   </a>
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+  </a>  
   
   <a href="https://vitejs.dev/" target="_blank">
     <img style="margin: 10px" src="https://vitejs.dev/logo.svg" alt="Vite" height="50" />
@@ -70,6 +74,10 @@ Nice to meet you.
 <div align="center">
    <a href="https://t.me/RtaoGod" target="_blank">
      <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="mailto:rtobor519@gmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/Email-rtobor519%40gmail.com-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
   </a>
   
    <a href="https://github.com/rtao-god" target="_blank">
