@@ -76,10 +76,11 @@
   <a href="https://www.figma.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
   </a>
-</td></tr></table>  
+  </td>
+ </tr>
+</table>  
 
 <br/>  
-
 
 ## Connect with me  
  <div align="center">
