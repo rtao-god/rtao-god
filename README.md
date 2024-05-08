@@ -1,5 +1,3 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-  
 ### <div align="center">Hey 👋,  I'm Dmitry! </div>  
   
 ### About me  
