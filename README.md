@@ -84,24 +84,23 @@ Nice to meet you.
 
 
 ## Connect with me  
-<div align="center">
+ <div align="center">
    <a href="https://t.me/RtaoGod" target="_blank">
      <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
   </a>
 
   <a href="mailto:rtobor519@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/Email-rtobor519%40gmail.com-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
   </a>
 
-   <a href="https://discordapp.com/users/660952910066221066" target="_blank">
-      <img src= https://img.shields.io/discord/102860784329052160?style=for-the-badge&logo=discord alt=discord style="margin-bottom: 5px;" />
-   </a>
+  <a href="https://discordapp.com/users/660952910066221066" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
+  </a>
 
-  
    <a href="https://github.com/rtao-god" target="_blank">
-      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
    </a> 
-</div>  
+</div> 
   
 
 <br/>  
