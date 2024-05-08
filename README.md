@@ -28,16 +28,14 @@
 
 ## **💻 Experience**
 
-  <div align="center">
-    <img align="center" width="100" src="./images/mahiro/cry.png" />
-    <p> I have 3 years of commercial experience in the IT field in the position of Frontend Developer (React). </p>
-    <p>I have described all my experience in companies in my
-      <a href="https://hh.ru/resume/a98761d9ff0c8cdb3e0039ed1f6c71436a3966" target="_blank">
+  <img align="center" width="100" src="./images/mahiro/cry.png" />
+  <p> I have 3 years of commercial experience in the IT field in the position of Frontend Developer (React). </p>
+  <p>I have described all my experience in companies in my
+    <a href="https://hh.ru/resume/a98761d9ff0c8cdb3e0039ed1f6c71436a3966" target="_blank">
       resume.
-      </a>
-    </p>
-    <p>Good luck!</p>
-  </div>
+    </a>
+  </p>
+  <p>Good luck!</p>
 
 <br/>
 
