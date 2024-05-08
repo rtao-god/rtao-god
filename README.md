@@ -5,9 +5,9 @@
 ### About me  
 
 <div align="center">
-<img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width=200 />
- <p style="text-indent: 20px;" >
-   I am a frontend engineer from the  
+  <img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width=200 />
+   <p style="text-indent: 20px;" >
+     I am a frontend engineer from the  
      
    <a href="https://en.wikipedia.org/wiki/Russia" target="_blank">
      Russian
