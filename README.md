@@ -1,24 +1,16 @@
-Hi, I'm Dmitry, frontend engineer from [Moscow](https://en.wikipedia.org/wiki/Moscow), but now I live in Georgia in the city of Batumi [Batumi](https://en.wikipedia.org/wiki/Batumi).
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+  
+### <div align="center">Hey 👋,  I'm Dmitry! </div>  
+  
+### About me  
+
+  I am a frontend engineer from the Russian city of from [Moscow](https://en.wikipedia.org/wiki/Moscow), but now I live in Georgia in the city of Batumi [Batumi](https://en.wikipedia.org/wiki/Batumi).
 
 Looking for remote job, if you have some, feel free to call me in the middle of the night or write in DMs.
 
 Nice to meet you.
 
-
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-  
-
-### <div align="center">Hey 👋,  I'm Ihor! </div>  
-  
-
-### About me  
-  
-
-I am a self-educated web developer from Ukraine 🇺🇦. My journey in IT began with the CS50 Basics of Programming course. After that, I tried myself in many directions, but I was most hooked on web technology! Since December 2021, I have been studying web development on Udemy.com courses. I have now completed learning the basic front end development stack and I am looking for a job. Although it seems to me that my studies have only just begun 😅  
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
@@ -46,15 +38,13 @@ I am a self-educated web developer from Ukraine 🇺🇦. My journey in IT began
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Igortt6" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Igor.tt6" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_igor_tkachenko" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://t.me/RtaoGod" target="_blank">
+     <img src=https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram alt=telegram style="margin-bottom: 5px;" />
+  </a>  
+
+   <a href="https://github.com/rtao-god" target="_blank">
+      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+   </a> 
 </div>  
   
 
@@ -62,7 +52,7 @@ I am a self-educated web developer from Ukraine 🇺🇦. My journey in IT began
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igortt6&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtao-god&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
