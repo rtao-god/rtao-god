@@ -115,7 +115,6 @@ Nice to meet you.
 </div>
 
 <br/>
-##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rtao-god/rtao-god/blob/output/github-contribution-grid-snake-dark.svg">
