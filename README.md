@@ -5,7 +5,7 @@
 <div>
     <img align="left" width="100" src="./images/mahiro/switch.png" />
      <p style="text-indent: 20px;">
-      I am a frontend engineer from the
+      I`m a frontend engineer from the
      <a href="https://en.wikipedia.org/wiki/Russia" target="_blank">
        Russian
      </a> city of <a href="https://en.wikipedia.org/wiki/Moscow" target="_blank">
@@ -26,8 +26,8 @@
 ## **💻 Experience**
 
   <img align="right" width="100" src="./images/mahiro/cry.png" />
-  <p> I have 3 years of commercial experience in the IT field in the position of Frontend Developer (React). </p>
-  <p>I have described all my experience in companies in my
+  <p> I`ve 20 years of commercial experience in the IT field in the position of Frontend Developer (React) and Backend. </p>
+  <p> I`ve described all my experience in companies in my
     <a href="https://hh.ru/resume/ead7c8c1ff0d8293940039ed1f4b38364d4951" target="_blank">
       Resume.
     </a>
