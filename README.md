@@ -98,7 +98,7 @@
      <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px; border-radius: 20%;" />
    </a>
 
-  <a href="https://hh.ru/resume/a98761d9ff0c8cdb3e0039ed1f6c71436a3966" target="_blank">  
+  <a href="https://hh.ru/resume/a98761d9ff0c8cdb3e0039ed1f6c71436a3966-ыпаавыа" target="_blank">  
     <img src="https://img.shields.io/badge/My CV-red?style=for-the-badge&logo=Readthedocs&logoColor=white" alt="my-cv Badge"/>  
   </a>
 
